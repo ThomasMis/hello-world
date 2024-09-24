@@ -29,7 +29,7 @@ function setup() {
     // resulted in a more tolerable animation.
     //
     frameRate(12);
-    createCanvas(1280, 720);
+    createCanvas(1280, 320);
 }
 
 function draw() {
